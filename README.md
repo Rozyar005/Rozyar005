@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello fellow delulu icons. ✨ 👋
 # 💫 About Me:
 💻Computer Engineering student ✨Just a 20yo code monkey gaslighting myself into thinking this code actually works.💅
 
