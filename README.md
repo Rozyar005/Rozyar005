@@ -1,6 +1,6 @@
 ## Hello fellow delulu icons. ✨ 👋
 # 💫 About Me:
-💻Hii besties! 🎀 Coder Girl here just trying to turn caffeine into logic and bugs into sparkles. ✨🌸 My toxic trait is thinking I don’t need a tutorial for this. 🍭🎀One semicolon away from a mid-life crisis. 📉💖🌷💅
+💻Hii besties! 🎀Coder Girl here just trying to turn caffeine into logic and bugs into sparkles. ✨🌸 My toxic trait is thinking I don’t need a tutorial for this. 🍭🎀One semicolon away from a mid-life crisis. 📉💖🌷💅
 
 
 ## 🌐 Socials:
