@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello fellow Developers.✨👋<br>💫 About Me:<br>💻Welcome to my Profile! 🎀Coder Girl here just trying to turn caffeine into logic and bugs into sparkles.✨🌸🎀One semicolon away from a mid-life crisis. 💖🌷
+Hello fellow Developers.✨👋
+💻Welcome to my Profile! 🎀Coder Girl here just trying to turn caffeine into logic and bugs into sparkles.✨🌸🎀One semicolon away from a mid-life crisis. 💖🌷
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rozyar-jamal-112r) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rozyar.jamal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rozyarjamalsaida@gmail.com)
