@@ -1,5 +1,5 @@
 # About Me:
-Hello fellow Developers.✨Welcome to my Profile!🌸Here I am just trying to code.✨. 
+Hello fellow Developers.✨Welcome to my Profile!🌸Here I am just trying to code✨. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rozyar-jamal-112r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rozyarjamalsaida@gmail.com)
