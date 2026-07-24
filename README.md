@@ -1,17 +1,4 @@
-# About Me:
-Hello fellow Developers.✨Welcome to my Profile!🌸Here I am just trying to code✨. 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rozyar-jamal-112r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rozyarjamalsaida@gmail.com)
-<h1 align="center">Hi there, I'm Rozyar 👋</h1>
-<h3 align="center">Computer Engineering Student | Developer from Kurdistan 🇮🇶</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="coding gif" width="500"/>
-</div>
-
-###
-
+<h1 align="center">Salam, I'm Rozyar 🌸</h1>
 <h3 align="center">✨ Welcome to my Profile! 🌸 Here I am just trying to code ✨</h3>
 
 ###
@@ -73,8 +60,7 @@ Hello fellow Developers.✨Welcome to my Profile!🌸Here I am just trying to co
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=argo&logoColor=white" height="60" alt="gitops badge"  />
-  <img width="12" />
+  <img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square&logo=argo&logoColor=white" height="60" alt="gitops badge"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="60" alt="yaml logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
