@@ -65,6 +65,6 @@
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 🎵 Commit History
+
+# 🏛️ Commit History
 ![snake gif](https://raw.githubusercontent.com/Rozyar005/Rozyar005/output/github-contribution-grid-snake-dark.svg)
