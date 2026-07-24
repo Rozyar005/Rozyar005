@@ -1,4 +1,4 @@
-<h1 align="center">Salam, I'm Rozyar 🌸</h1>
+<h1 align="center">🌸 Salam, I'm Rozyar 🌸</h1>
 <h3 align="center">✨ Welcome to my Profile! 🌸 Here I am just trying to code ✨</h3>
 
 ###
@@ -60,8 +60,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square&logo=argo&logoColor=white" height="60" alt="gitops badge"  />  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="60" alt="yaml logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/argo.svg" height="60" alt="gitops logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="60" alt="yaml logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
 </div>
