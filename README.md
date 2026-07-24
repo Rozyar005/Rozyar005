@@ -22,49 +22,64 @@
 
 ## 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/yaml.svg" height="60" alt="yaml logo" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="github actions logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="github actions logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/argo.svg" height="60" alt="argo gitops logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/argo.svg" height="60" alt="gitops logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="60" alt="yaml logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberry pi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/espressif.svg" height="60" alt="esp32 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arch" height="60" alt="arch linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" height="60" alt="canva logo" />
 </div>
-
 
 # 🏛️ Commit History
 ![snake gif](https://raw.githubusercontent.com/Rozyar005/Rozyar005/output/github-contribution-grid-snake-dark.svg)
