@@ -39,7 +39,11 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
-  <img width="12" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
@@ -49,10 +53,7 @@
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/yaml.svg" height="60" alt="yaml logo" />
-</div>
-
-###
-<div align="center">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
@@ -60,7 +61,11 @@
   <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="github actions logo" />
-  <img width="12" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
@@ -78,7 +83,7 @@
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" height="60" alt="canva logo" />
-
+</div>
 
 # 🏛️ Commit History
 ![snake gif](https://raw.githubusercontent.com/Rozyar005/Rozyar005/output/github-contribution-grid-snake-dark.svg)
