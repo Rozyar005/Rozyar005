@@ -77,8 +77,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC/00C4CC" height="60" alt="canva logo" />
-</div>
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="60" alt="canva logo" /></div>
 
 
 # 🏛️ Commit History
