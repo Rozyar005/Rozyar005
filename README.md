@@ -52,7 +52,6 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
@@ -66,20 +65,21 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/argo.svg" height="60" alt="argo gitops logo" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D/EF7B4D" height="60" alt="argo logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberry pi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/espressif.svg" height="60" alt="esp32 logo" />
+  <img src="https://cdn.simpleicons.org/espressif/E7352C/E7352C" height="60" alt="esp32 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arch" height="60" alt="arch linux logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" height="60" alt="canva logo" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC/00C4CC" height="60" alt="canva logo" />
 </div>
+
 
 # 🏛️ Commit History
 ![snake gif](https://raw.githubusercontent.com/Rozyar005/Rozyar005/output/github-contribution-grid-snake-dark.svg)
