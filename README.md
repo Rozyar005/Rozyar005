@@ -3,7 +3,10 @@
 </h1>
 <h3 align="center">✨ Welcome to my Profile! 🌸 Here I am just trying to code ✨
 </h3>
-    <img src="1.png" height="100" style="vertical-align: middle; align="right"> <img src="1.png" height="100" style="vertical-align: middle; align="right">
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="1.png" height="100">
+    <img src="1.png" height="100">
+</div>
 
 ### 
 
