@@ -3,7 +3,7 @@
 
 ###
 
-<img src="1.png" height="200" align="right">
+<img src="1.png" height="150" align="right">
 
 ## 📫 How to reach me
 <div align="center">
