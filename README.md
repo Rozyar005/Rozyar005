@@ -4,7 +4,6 @@
 <h3 align="center">✨ Welcome to my Profile! 🌸 Here I am just trying to code ✨
 </h3>
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="1.png" height="100">
     <img src="2.png" height="100">
     <img src="4.png" height="100">    
     <img src="5.png" height="100">
