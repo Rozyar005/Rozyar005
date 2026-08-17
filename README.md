@@ -2,7 +2,7 @@
     🌸 Hello, World! I'm Rozyar 🌸 
 </h1>
 <h3 align="center">✨ Welcome to my Profile! 🌸 Here I am just trying to code ✨
-    <img src="1.png" height="200" style="vertical-align: right;">
+    <img src="1.png" height="200" style="vertical-align: middle; align="right">
 </h3>
 
 
