@@ -1,8 +1,9 @@
 <h1 align="center">
     🌸 Hello, World! I'm Rozyar 🌸 
-    <img src="1.png" height="200" style="vertical-align: middle;">
 </h1>
-<h3 align="center">✨ Welcome to my Profile! 🌸 Here I am just trying to code ✨</h3>
+<h3 align="center">✨ Welcome to my Profile! 🌸 Here I am just trying to code ✨
+    <img src="1.png" height="200" style="vertical-align: middle;">
+</h3>
 
 
 ### 
