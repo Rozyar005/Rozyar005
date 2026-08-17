@@ -1,7 +1,9 @@
-<h1 align="center">🌸 Salam, I'm Rozyar 🌸</h1>
+<h1 align="center">🌸 Hello, World! I'm Rozyar 🌸</h1>
 <h3 align="center">✨ Welcome to my Profile! 🌸 Here I am just trying to code ✨</h3>
 
 ###
+
+<img src="cat.png" height="200" align="right">
 
 ## 📫 How to reach me
 <div align="center">
