@@ -3,7 +3,9 @@
 
 ###
 
-<img src="1.png" height="100" align="center">
+<div style="display: flex; justify-content: center;">
+    <img src="1.png" height="200">
+</div>
 
 ## 📫 How to reach me
 <div align="center">
